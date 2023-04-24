@@ -15,13 +15,15 @@ OOP atau Object Oriented Programming adalah suatu metode pemrograman yang berori
      OOP juga dapat digunakan pada pembuatan aplikasi desktop, seperti aplikasi pengolah kata atau aplikasi pengedit gambar. Kita dapat membuat kelas-kelas yang            merepresentasikan elemen-elemen dalam aplikasi tersebut, seperti dokumen, paragraf, gambar, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara            elemen-   elemen ini dengan lebih mudah dan modular.
 
 3. Pembuatan aplikasi web
-Pada pembuatan aplikasi web, OOP dapat digunakan untuk membuat kelas-kelas yang merepresentasikan komponen-komponen pada aplikasi web, seperti model, view, dan controller. Setiap kelas ini dapat memiliki method dan atribut yang berkaitan dengan fungsinya masing-masing, sehingga program dapat diorganisir dengan lebih baik dan mudah dipelihara.
+
+    Pada pembuatan aplikasi web, OOP dapat digunakan untuk membuat kelas-kelas yang merepresentasikan komponen-komponen pada aplikasi web, seperti model, view, dan         controller. Setiap kelas ini dapat memiliki method dan atribut yang berkaitan dengan fungsinya masing-masing, sehingga program dapat diorganisir dengan lebih baik     dan mudah dipelihara.
 
 4. Pembuatan robot
-OOP dapat digunakan pada pembuatan robot, baik itu robot industri atau robot yang digunakan pada kontes-kontes robot. Kita dapat membuat kelas-kelas yang merepresentasikan komponen-komponen pada robot, seperti sensor, motor, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara komponen-komponen tersebut dengan lebih mudah dan modular.
+    OOP dapat digunakan pada pembuatan robot, baik itu robot industri atau robot yang digunakan pada kontes-kontes robot. Kita dapat membuat kelas-kelas yang               merepresentasikan komponen-komponen pada robot, seperti sensor, motor, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara komponen-komponen tersebut     dengan lebih mudah dan modular.
 
 5. Pembuatan aplikasi mobile
-OOP juga dapat digunakan pada pembuatan aplikasi mobile, seperti aplikasi mobile untuk bisnis atau aplikasi mobile untuk hiburan. Kita dapat membuat kelas-kelas yang merepresentasikan komponen-komponen pada aplikasi mobile, seperti tampilan, fungsi, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara komponen-komponen tersebut dengan lebih mudah dan modular.
+
+    OOP juga dapat digunakan pada pembuatan aplikasi mobile, seperti aplikasi mobile untuk bisnis atau aplikasi mobile untuk hiburan. Kita dapat membuat kelas-kelas       yang merepresentasikan komponen-komponen pada aplikasi mobile, seperti tampilan, fungsi, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara komponen-     komponen tersebut dengan lebih mudah dan modular.
 
 
 ## Kesimpulan
