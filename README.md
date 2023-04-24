@@ -8,7 +8,7 @@ OOP atau Object Oriented Programming adalah suatu metode pemrograman yang berori
 ## contoh pengimplementasian dari OOP
 1. Pembuatan game
 
-Pada pembuatan game, OOP dapat digunakan untuk membuat kelas-kelas yang merepresentasikan karakter, item, musuh, dan sebagainya. Setiap kelas ini dapat memiliki atribut dan method yang berkaitan dengan fungsinya masing-masing, sehingga program game dapat diorganisir dengan lebih baik dan mudah dipelihara.
+  Pada pembuatan game, OOP dapat digunakan untuk membuat kelas-kelas yang merepresentasikan karakter, item, musuh, dan sebagainya. Setiap kelas ini dapat memiliki       atribut dan method yang berkaitan dengan fungsinya masing-masing, sehingga program game dapat diorganisir dengan lebih baik dan mudah dipelihara.
 
 2. Pembuatan aplikasi desktop
 OOP juga dapat digunakan pada pembuatan aplikasi desktop, seperti aplikasi pengolah kata atau aplikasi pengedit gambar. Kita dapat membuat kelas-kelas yang merepresentasikan elemen-elemen dalam aplikasi tersebut, seperti dokumen, paragraf, gambar, dan sebagainya. Dengan OOP, kita dapat mengatur interaksi antara elemen-elemen ini dengan lebih mudah dan modular.
